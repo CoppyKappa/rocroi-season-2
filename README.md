@@ -43,6 +43,16 @@ The map has been improved slightly , adding more trees so the map feels more viv
 
 Allied TC has been removed , even if i liked this feature , i agree that its way too op if youre playing as the english and you can garrison troops inside , wich takes the fun out of the scenario , to fix this problem i decided to remove the allied tc , the enemy tc its still on the scenario , so the player can see clearly where the enemy has its base .
 
+# Objective translation fixes
+
+Objective 1 name changed from : "do not loose your enemy units" to "do not lose your enemy units"
+
+Objective 2 name changed from : "win the second batallion" to "Win the second push of cavalry"
+
+Obejective 4 name changed from "beat the enemy militia at the side of your basement" to "Kill the enemy militia in the southwest part of the map"
+
+objective 6 name changed from "defend your self" to "Defend your self from the attack"
+
 # About the future..
 
 I might do a final update before moving on to my next project , i still need to fix the end cinematic , wich doesnt trigger at all. Ive planned making adittional and final balance changes for the last time and work on units formation .
